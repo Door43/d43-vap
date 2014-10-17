@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vap:home|Door43 (vap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vap|d43-vap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vap/archive/master.zip|d43-vap.zip]]
+
+**Recent Changes**
+{{changes>ns = vap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vap|Ethnologue data]]
+
